@@ -1,3 +1,4 @@
 tailor_responses/*
-outputs/cv.json
-outputs/job.json
+outputs/*.json
+inputs/tone.txt
+.DS_Store

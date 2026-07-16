@@ -1,0 +1,175 @@
+JEFF MOURA
+CIO | IT Executive | Modernizing Complex Legacy Systems with AI-Driven Infrastructure & Automation
+Sao Paulo, Brazil
+
+Email: jefferson@dimoura.com
+Phone: 11 992241188
+LinkedIn: www.linkedin.com/in/dimoura
+Website: www.dimoura.com
+
+---------------------------------------------------------------
+SUMMARY
+---------------------------------------------------------------
+
+Technology executive with 15+ years of experience taking products from first line of code to board-level strategy. I started as a hands-on engineer, working across Java, Node.js, Angular, React, Python, Ruby, and SAP Commerce, and grew into leadership roles where the real work became building teams, not just software.
+
+Today I run two parallel missions. As CIO at Bepass, I lead the technology behind large-scale facial recognition and access control for major events, where system reliability has a direct, physical impact on operations. As CEO of ez6Labs, a venture studio I co-founded, I build AI-native software companies aimed at traditional industries. My thesis is simple: the industries that have changed the least are the ones AI will change the most.
+
+I also co-founded GROW, a career development platform that helps developers, from first-jobbers to senior engineers, grow with intention. Developing people remains the through line of my career.
+
+Agile has been a constant in my work for over a decade, not as a label but as a practice I have watched succeed, fail, and evolve across dozens of projects. That gap between theory and execution is where I do my best work.
+
+---------------------------------------------------------------
+CORE SKILLS
+---------------------------------------------------------------
+
+Enterprise Architecture | Site Reliability Engineering | Digital Transformation | AI & Biometrics | Innovation Governance | Executive Leadership | Agile at Scale
+
+---------------------------------------------------------------
+LANGUAGES
+---------------------------------------------------------------
+
+Portuguese (Native) | English (Full Professional) | Spanish (Full Professional) | Japanese (Limited Working) | French (Elementary)
+
+---------------------------------------------------------------
+EXPERIENCE
+---------------------------------------------------------------
+
+EZ6LABS
+Chief Executive Officer (CEO)
+November 2025 - Present | Sao Paulo, Brazil
+
+ez6Labs is a venture studio that builds and launches AI-native software companies, each targeting a traditional industry ready for transformation. We don't just invest, we co-found: identifying high-potential verticals, applying frontier AI to persistent operational problems, and standing up companies from zero across product, team, and go-to-market.
+
+As CEO, I lead the full lifecycle of company creation, from thesis development and venture design to capital formation and portfolio growth, partnering with domain experts, engineers, and operators to turn market insight into compounding value.
+
+
+BEPASS
+Chief Innovation Officer - IT Director | Founding Team
+October 2024 - Present | Sao Paulo, Brazil
+
+I lead innovation, technology strategy, and high-performance teams in mission-critical environments, turning advanced technologies (AI, biometrics, facial recognition, and large-scale access control) into secure, scalable, business-driven solutions for major events and high-profile operations.
+
+Selected results:
+
+- Revenue innovation: led the launch of new product lines that now represent 35% of total company revenue, diversifying the portfolio and opening new market segments.
+- Architecture: drove the modernization of legacy infrastructure into high-scale, sub-second response environments, enabling the business to support global-scale events.
+- Operational excellence: built the management structure and leadership practices that increased organizational throughput by 40% through coaching and process optimization.
+
+My focus is innovation governance and market defensibility, bridging complex R&D and boardroom objectives so that every technical advance translates into competitive advantage and measurable ROI. On the people side, I run structured 1:1s, recurring feedback cycles, clear performance goals, and active career development plans. Innovation is a human endeavor, and psychological safety is what makes high performance sustainable.
+
+Engineering Manager | Founding Team
+November 2022 - October 2024 | Sao Paulo, Brazil
+
+Led engineering for facial recognition solutions deployed at major events and high-profile soccer matches, building and scaling a high-performing team in a demanding operational environment.
+
+Key results:
+
+- 63% reduction in access control system response times.
+- 97% improvement in overall security performance.
+- 25% reduction in project delivery timelines through agile delivery practices.
+- 40% increase in team productivity and efficiency.
+
+
+MERCADO LIVRE BRASIL
+Technology Project Leader (LATAM)
+October 2021 - September 2023 | Sao Paulo, Brazil
+
+Led delivery of digital wallet and contactless payment solutions across Latin America, operating in a complex, multi-integration environment. Acted as the bridge between teams, aligning stakeholders and connecting people to keep large initiatives moving. Contributed to technical architecture decisions for online payment applications, always with user experience and agile delivery at the center.
+
+
+RENAULT GROUP
+Digital Transformation and Innovation Coordinator
+November 2019 - October 2021 | Curitiba, Brazil
+
+As part of the Digital Transformation Office (DTO), I connected business and technology across the LATAM region: contracting, structuring, and supporting high-performance, multidisciplinary teams responsible for delivering digital products and accelerating Renault's digital transformation.
+
+LATAM eCommerce Technical Leader & Chapter Leader
+May 2019 - November 2019
+
+Delivered and co-created regional projects across Argentina, Brazil, Mexico, and Colombia. Helped design the eCommerce platform later adopted across Renault Group sites, raised code quality standards, and built teams delivering mobile apps, websites, chatbots, AI, and Industry 4.0 applications across the region.
+
+
+RENAULT-NISSAN-MITSUBISHI ALLIANCE
+Technical Lead
+June 2018 - May 2019 | Curitiba, Brazil
+
+Led developers across projects spanning four business areas (HR, Marketing, After Sales, and Supply Chain), with responsibility for code quality, proof-of-concept development, and solution architecture.
+
+Highlights:
+
+- 20+ projects and MVPs delivered across the group.
+- Approximately EUR 20M in revenue generated through new projects and initiatives.
+- Created a mentoring and career path program for developers.
+
+Stack: Java, SAP Hybris (CX), Node.js, Angular (Ionic, Cordova), React and React Native, AWS/GCP, SonarQube, custom CI/CD pipelines, Scrum and Kanban.
+
+
+ICOMM GROUP (OQVestir + Shop2Gether)
+Frontend Technical Lead
+January 2017 - May 2018 | Sao Paulo, Brazil
+
+Led frontend engineering for the merger of OQVestir and Shop2Gether, which together held roughly 80% of Brazil's premium fashion e-commerce market. Managed a team of frontend developers, drove performance improvements on a PHP/Magento platform, and introduced data-driven development based on A/B testing and analytics. Built internal QA and agile tracking dashboards, and created a recognition program to keep the team current with frontend trends, because leading a squad is about professional growth, not just task management.
+
+Stack: Angular, React, Vue, PHP, Node.js, SQL, SASS, Jasmine, Jest, Git, Codeship, Google Analytics, GTM, Hotjar.
+
+
+DIMOURA
+Project Manager
+June 2006 - October 2017 | Sao Paulo, Brazil
+
+Ran a digital projects practice serving agencies and direct clients. Managed client acquisition and relationships, built sustainable delivery processes that protected both deadlines and team quality of life, and strengthened client-agency communication to reduce rework.
+
+
+OQVESTIR
+Software Engineer
+October 2015 - December 2016 | Sao Paulo, Brazil
+
+Built the frontend foundation for a data-driven fashion e-commerce platform. Worked with REST APIs, SMACSS architecture, and emerging technologies including geofencing and augmented reality. Deep practice in pair programming and code review sharpened my engineering standards significantly. Development was guided by user analytics and A/B testing, under a "test first, fail fast" culture.
+
+Stack: Angular, Node.js, AWS (EC2, CloudFront, Beanstalk), REST APIs, Jasmine, Gulp, Git, Google Analytics, Tag Manager.
+
+
+99JOBS
+Software Engineer
+November 2014 - October 2015 | Sao Paulo, Brazil
+
+Delivered structural changes across a large recruitment platform following strict UX guidelines. Co-built an Applicant Tracking System from scratch with two distinct experiences: a polished, pixel-perfect candidate journey and a high-performance recruiter view designed to filter hundreds of applicants per position. Applied SEO and data analysis to increase user engagement and time on platform.
+
+Stack: JavaScript, Ruby, Angular, SASS, CoffeeScript, HAML, MongoDB, Node.js, Jenkins, Git, Scrum.
+
+
+LAMPEJOS
+Full Stack Developer (PHP)
+May 2009 - November 2014 | Americana, Brazil
+
+Where I learned to code and to lead. Built websites on WordPress and the agency's proprietary .NET CMS, evolving from vanilla JavaScript through the jQuery era. Agency work taught me delivery discipline, collaboration, and performance; after three years I was leading a small team (backend developer, content manager, and account manager). We adopted Scrum and never missed a deadline.
+
+Stack: PHP, .NET, SQL, HTML, CSS, SASS, jQuery, JavaScript, Git.
+
+
+CAMBACICA PROJETOS EDITORIAIS
+Layout Designer
+January 2007 - May 2008
+
+Magazine layouts, puzzles, websites, and illustrated album design.
+
+---------------------------------------------------------------
+EDUCATION
+---------------------------------------------------------------
+
+Pontificia Universidade Catolica do Rio Grande do Sul (PUCRS)
+MBA, Business Technology: AI, Data Science and Big Data (2020 - 2021)
+
+Liffey College Ireland
+Business Studies ICM, Business/Corporate Communications (2011 - 2012)
+
+FAAL - Faculdade de Administracao e Artes de Limeira
+Graphic Design (2006 - 2010)
+
+---------------------------------------------------------------
+HONORS & PUBLICATIONS
+---------------------------------------------------------------
+
+Award: Premio Recall 2011
+Publication: "Transmedia Storytelling on Advergames"
